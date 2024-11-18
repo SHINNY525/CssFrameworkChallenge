@@ -2,6 +2,16 @@ body{
     border-top: 15px solid black;
 }
 
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+}
+
 h1{
     text-align: center;
     padding: 20px;
